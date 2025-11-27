@@ -51,3 +51,4 @@ jobs:
           else
             echo "::error::Tests failed. Check the logs above and the 'coverage-report' artifact for details." 
             echo "One or more tests failed. See job logs and the 'coverage-report' artifact for details." >> "$GITHUB_STEP_SUMMARY"
+          fi
