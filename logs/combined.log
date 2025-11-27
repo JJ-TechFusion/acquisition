@@ -26,3 +26,17 @@
 {"level":"info","message":"::1 - - [27/Nov/2025:14:11:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [27/Nov/2025:14:11:59 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [27/Nov/2025:14:12:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:12:59 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:13:30 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:14:00 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:14:30 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:15:00 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:15:31 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:16:01 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:16:31 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:17:01 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:17:32 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:18:02 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:18:32 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:19:02 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Nov/2025:14:19:33 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
