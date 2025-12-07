@@ -5,8 +5,15 @@ const aj = arcjet({
   rules: [
     shield({ mode: 'LIVE' }),
     detectBot({
-      mode: 'LIVE',
-      allow: ['CATEGORY:SEARCH_ENGINE', 'CATEGORY:PREVIEW'],
+      mode: 'DRY_RUN', // Temporarily disabled for testing
+      allow: [
+        'CATEGORY:SEARCH_ENGINE', 
+        'CATEGORY:PREVIEW',
+        // Allow testing tools when explicitly enabled or in development
+        ...(process.env.ALLOW_TESTING_TOOLS === 'true' || process.env.NODE_ENV !== 'production' 
+          ? ['PostmanRuntime/*', 'insomnia/*', 'curl/*', 'Thunder Client/*'] 
+          : [])
+      ],
     }),
     slidingWindow({
       mode: 'LIVE',

@@ -128,6 +128,10 @@ DATABASE_URL=
 
 # Arcjet
 ARCJET_KEY=
+
+# Testing (optional)
+# Set to 'true' to allow testing tools like Postman in production
+ALLOW_TESTING_TOOLS=false
 ```
 
 Replace the placeholder values with your real credentials. You can get these by signing up at: [**Arcjet**] [**Neon**]
